@@ -26,15 +26,15 @@ organizations:
     url: https://www.rit.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical and Computer Engineering (Ongoing)
+      institution: Rochester Institute of Technology
+      year: 2022
+    - course: MSc in Electrical Engineering
+      institution: Rochester Institute of Technology
+      year: 2019
+    - course: BEng in Electronics and Communication Engineering
+      institution: Birla Institute of Technology
+      year: 2013
 email: ""
 superuser: true
 highlight_name: false
