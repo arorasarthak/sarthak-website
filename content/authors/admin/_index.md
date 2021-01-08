@@ -1,7 +1,7 @@
 ---
 title: Sarthak Arora
 role: Graduate Research Assistant
-avatar_filename: my_photo.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
