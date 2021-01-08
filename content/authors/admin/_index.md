@@ -39,8 +39,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Graduate Research Assistant at [KGCOE, RIT](https://www.rit.edu/kgcoe/). My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in their courses.
+I am a Graduate Research Assistant at [KGCOE, RIT](https://www.rit.edu/kgcoe/). My major is Electrical Engineering with a specialization in Robotics. Most of my time is spent working on my graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in their courses.
 
 Beside my passion for robotics, I spend my time in photography and making music.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
