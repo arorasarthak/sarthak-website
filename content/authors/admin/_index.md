@@ -1,11 +1,10 @@
 ---
 title: Sarthak Arora
-role: Graduate Research Assistant
+role: Robotics Engineer
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include human robot interaction, motion planning, 3D perception
 interests:
-  - Artificial Intelligence
+  - Human Robot Interaction
   - Computer Vision
   - Robotics
 social:
@@ -26,9 +25,9 @@ organizations:
     url: https://www.rit.edu/
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering (Ongoing)
+    - course: PhD in Electrical and Computer Engineering (On Leave)
       institution: Rochester Institute of Technology
-      year: 2022
+      year: 2021
     - course: MSc in Electrical Engineering
       institution: Rochester Institute of Technology
       year: 2019
@@ -39,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Graduate Research Assistant at [KGCOE, RIT](https://www.rit.edu/kgcoe/). My major is Electrical Engineering with a specialization in Robotics. Most of my time is spent working on my graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in their courses.
+I am a Robotics Engineer currently working at [JetBrains, Amsterdam](https://jetbrains.com). My professional and academic background is in robotics software development and research. I love (working + contributing) on open source software projects and am always keen to (learn + apply) about new algorithms & techniques in robotics. 
 
 Beside my passion for robotics, I spend my time in photography and making music.
 
